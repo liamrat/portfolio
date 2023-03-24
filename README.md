@@ -3,12 +3,12 @@
 ## Ojective
 Make a portfolio website following requirements:
 
-###Content Requirements
+##Content Requirements
 *An intro (who, where)
 *about me (webdev exp)
 *contact section (github, linkedin)
 
-###Technical Requirements:
+##Technical Requirements:
 *semantic containers (main, article, footer)
 *styled links
 *comments within code
