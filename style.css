@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Quattrocento+Sans|Quattrocento);
+
+/* general styling */
+body {
+  font-family:'Quattrocento Sans', sans-serif;
+  text-align: center;
+}
+
+header, footer {
+  background-color: #1E1E24;
+  margin: 0;
+  color: #ffff
+}
+
+/* header styling */
+
+header{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* header nav styling */
+header nav a{
+  margin-right:40px;
+  margin-left:40px;
+}
+
+nav a:link{
+  color: #ffff;
+  text-decoration: none;
+}
+nav a:visited {
+  color: #ffff;
+}
+nav a:hover {
+  color: #ccccccff;
+}
+nav a:active {
+  color: #757575ff;
+} 
+
+/* main styling */
+
+section div {
+  display: inline-block;
+  text-align: left;
+  margin-left:90px;
+  margin-right:80px;
+}
+
+
+/* footer */
+footer {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+footer h3{
+  padding-left: 20px;
+  padding-top: 20px;
+}
